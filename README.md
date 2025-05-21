@@ -6,6 +6,10 @@ A JavaScript-based infinite scroll image gallery that uses a local image store i
 
 This project creates an infinite scroll image gallery with a simulated API experience. As the user scrolls down the page, more images load automatically, creating a seamless browsing experience.
 
+## Demo
+
+Check out the live demo: [Infinite Photo](https://vadimgg.github.io/infinite-photo/)
+
 ## 🌟 Features
 
 - **Infinite Scrolling**: Automatically loads more images as the user scrolls down
